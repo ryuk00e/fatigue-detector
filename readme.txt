@@ -1,0 +1,1 @@
+extract the rar and just run the .py file
